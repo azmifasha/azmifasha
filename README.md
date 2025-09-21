@@ -6,7 +6,7 @@ Saat Ini Saya Sedang Belajar Pemrograman Mobile:
 | 04/09/2025 | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Laporan Modul 01](#) | [Kode Program](#) |
 | 04/09/2025 | 01        | 01           | Widget Row dan Column | [Modul 02](#) | [Kode Program](#) |
 | 11/09/2025 | 02        | 02           | Pengaturan Layout Row dan Column di Flutter | [Modul 03](#) | [Kode Program](#) |
-| 11/09/2025 | 02        | 02           | Widget Flexible dan Expanded | [Modul 04](#) | [TKode Program](#) |
+| 11/09/2025 | 02        | 02           | Widget Flexible dan Expanded | [Modul 04](#) | [Kode Program](#) |
 | 18/09/2025 | 03        | 03           | Widget SizedBox, Spacer, dan Card | [Modul 05](#) | [Kode Program](#) |
 | 18/09/2025 | 03        | 03           | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 06](#) | [Kode Program](#) |
 
