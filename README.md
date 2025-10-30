@@ -1,7 +1,7 @@
 ## Hi I'm Azmi Fash Shalna Zaiba 👋
 Saya Mahasiswa Teknik Informatika
 Saat Ini Saya Sedang Belajar Pemrograman Mobile:
-| Tanggal | Minggu ke | Praktikum ke | Topik | Modul | Template Laporan |
+| Tanggal | Minggu ke | Praktikum ke | Topik | Laporan | Codingan |
 |----|-----------|--------------|-------|-------|------------------|
 | 04/09/2025 | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Laporan Modul 01](#) | [Kode Program](#) |
 | 04/09/2025 | 01        | 01           | Widget Row dan Column | [Modul 02](#) | [Kode Program](#) |
