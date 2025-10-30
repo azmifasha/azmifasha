@@ -9,6 +9,12 @@ Saat Ini Saya Sedang Belajar Pemrograman Mobile:
 | 11/09/2025 | 02        | 02           | Widget Flexible dan Expanded | [Modul 04](#) | [Kode Program](#) |
 | 18/09/2025 | 03        | 03           | Widget SizedBox, Spacer, dan Card | [Modul 05](#) | [Kode Program](#) |
 | 18/09/2025 | 03        | 03           | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 06](#) | [Kode Program](#) |
+| 18/09/2025 | 04        | 04           | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 07](#) | [Kode Program](#) |
+| 18/09/2025 | 04        | 04           | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 08](#) | [Kode Program](#) |
+| 18/09/2025 | 05        | 05           | StatefulWidget | [Modul 09](#) | [Kode Program](#) |
+| 18/09/2025 | 05        | 05           | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](#) | [Kode Program](#) |
+| 18/09/2025 | 06        | 06           | StatefulWidget | [Modul 11](#) | [Kode Program](#) |
+| 18/09/2025 | 07        | 07           | Ujian Tengah Semester| [UTS](https://drive.google.com/file/d/1MX-nFFjwC3OkPH0UzH9Vdz47Alm4mtWH/view?usp=drive_link) | [Kode Program](https://github.com/azmifasha/UTSpraktikum-mobile) |
 
 <!--
 **azmifasha/azmifasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
