@@ -1,6 +1,7 @@
 ## Hi I'm Azmi Fash Shalna Zaiba 👋
+## NIM :230605110169
 Saya Mahasiswa Teknik Informatika
-Saat Ini Saya Sedang Belajar Pemrograman Mobile:
+Saat Ini Saya Sedang Belajar Praktikum Pemrograman Mobile:
 | Tanggal | Minggu ke | Praktikum ke | Topik | Laporan | Codingan |
 |----|-----------|--------------|-------|-------|------------------|
 | 04/09/2025 | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Laporan Modul 01](#) | [Kode Program](#) |
