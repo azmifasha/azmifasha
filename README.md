@@ -1,5 +1,7 @@
-## Hi I'm Azmi Fash Shalna Zaiba 👋
-## NIM :230605110169
+## Hi Welcome to My Profile 👋
+# Nama : Azmi Fash Shalna Zaiba
+# NIM : 230605110169
+# Kelas : E
 Saya Mahasiswa Teknik Informatika
 Saat Ini Saya Sedang Belajar Praktikum Pemrograman Mobile:
 | Tanggal | Minggu ke | Praktikum ke | Topik | Laporan | Codingan |
