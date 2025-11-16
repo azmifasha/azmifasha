@@ -6,7 +6,7 @@ Saya Mahasiswa Teknik Informatika
 Saat Ini Saya Sedang Belajar Pemrograman Mobile:
 | Tanggal | Minggu ke | Praktikum ke | Topik | Laporan | Codingan |
 |----|-----------|--------------|-------|-------|------------------|
-| 04/09/2025 | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01](#) | [Kode Program](#) |
+| 04/09/2025 | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01](https://drive.google.com/file/d/1rBRFTNYqTG2ZDdOifDVE8s6NuJ7cNC1p/view?usp=drive_link) | [Kode Program](#) |
 | 04/09/2025 | 01        | 01           | Widget Row dan Column | [Modul 02](#) | [Kode Program](#) |
 | 11/09/2025 | 02        | 02           | Pengaturan Layout Row dan Column di Flutter | [Modul 03](#) | [Kode Program](#) |
 | 11/09/2025 | 02        | 02           | Widget Flexible dan Expanded | [Modul 04](#) | [Kode Program](#) |
