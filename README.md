@@ -7,9 +7,9 @@ Saat Ini Saya Sedang Belajar Pemrograman Mobile:
 | Tanggal | Minggu ke | Praktikum ke | Topik | Laporan | Codingan |
 |----|-----------|--------------|-------|-------|------------------|
 | 04/09/2025 | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01](https://drive.google.com/file/d/1rBRFTNYqTG2ZDdOifDVE8s6NuJ7cNC1p/view?usp=drive_link) | [Kode Program](#) |
-| 04/09/2025 | 01        | 01           | Widget Row dan Column | [Modul 02](#) | [Kode Program](#) |
-| 11/09/2025 | 02        | 02           | Pengaturan Layout Row dan Column di Flutter | [Modul 03](#) | [Kode Program](#) |
-| 11/09/2025 | 02        | 02           | Widget Flexible dan Expanded | [Modul 04](#) | [Kode Program](#) |
+| 04/09/2025 | 01        | 01           | Widget Row dan Column | [Modul 02](https://drive.google.com/file/d/1q5DJ8Zd2P2ofoL_V4-n8ArC-nB-zerMx/view?usp=drive_link) | [Kode Program](#) |
+| 11/09/2025 | 02        | 02           | Pengaturan Layout Row dan Column di Flutter | [Modul 03](https://drive.google.com/file/d/1UOeTFP1F7ENJoMKo9X_QD_NaQdggilC7/view?usp=drive_link) | [Kode Program](#) |
+| 11/09/2025 | 02        | 02           | Widget Flexible dan Expanded | [Modul 04](https://drive.google.com/file/d/1GF2nhwCjwWhQ2FgPNwkQIWOXdodED744/view?usp=drive_link) | [Kode Program](#) |
 | 18/09/2025 | 03        | 03           | Widget SizedBox, Spacer, dan Card | [Modul 05](#) | [Kode Program](#) |
 | 18/09/2025 | 03        | 03           | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 06](#) | [Kode Program](#) |
 | 18/09/2025 | 04        | 04           | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 07](#) | [Kode Program](#) |
