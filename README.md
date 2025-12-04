@@ -16,7 +16,7 @@ Saat Ini Saya Sedang Belajar Pemrograman Mobile:
 | 18/09/2025 | 04        | 04           | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 08](https://drive.google.com/file/d/1kPjqYg_rltIpaP2Ac-uK6aO5xad97z1P/view?usp=drive_link) | [Kode Program](#) |
 | 18/09/2025 | 05        | 05           | StatefulWidget | [Modul 09](https://drive.google.com/file/d/1s_AfDU4SiaZl2WA1K2ti9FgZknuto5dL/view?usp=drive_link) | [Kode Program](#) |
 | 18/09/2025 | 05        | 05           | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://drive.google.com/file/d/1UhWbhRjqCxSfIJNZrWSRVcngRBl3Jxzt/view?usp=drive_link) | [Kode Program](#) |
-| 18/09/2025 | 06        | 06           | StatefulWidget | [Modul 11]([https://github.com/azmifasha/modul5](https://drive.google.com/file/d/1xNp58s605V3sTvkRstGAFtqqPcOjLaFQ/view?usp=drive_link) | [Kode Program](#) |
+| 18/09/2025 | 06        | 06           | StatefulWidget | [Modul 11](https://drive.google.com/file/d/1xNp58s605V3sTvkRstGAFtqqPcOjLaFQ/view?usp=drive_link) | [Kode Program](#) |
 | 18/09/2025 | 07        | 07           | Ujian Tengah Semester| [UTS](https://drive.google.com/file/d/1MX-nFFjwC3OkPH0UzH9Vdz47Alm4mtWH/view?usp=drive_link) | [Kode Program](https://github.com/azmifasha/UTSpraktikum-mobile) |
 | 18/09/2025 | 08        | 08           | Implementasi Akses Lokasi Real-Time Menggunakan GPS dengan State Management di Flutter  | [Modul 12](#) | [Kode Program](#) |
 
